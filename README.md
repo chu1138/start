@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chu1138
-- 👀 I’m interested in learning. I know pretty much nothing at the moment.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on, well, nothing. For now. I don't really have a lot to offer.
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning Python and more about linux, virtualization and networking.
+- 💞️ I’m looking to collaborate and, more to the point, for a career change. 
 - 📫 How to reach me ...
 
 <!---
