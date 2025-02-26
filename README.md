@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chu1138
 - 👀 I’m interested in learning and work.
-- 🌱 I’m currently learning Python and more about linux, virtualization and networking.
-- 💞️ I’m looking to collaborate and, more to the point, for a career change. 
+- 🌱 I’m currently learning Python and more about linux, virtualization, security.
+- 💞️ I’m looking to collaborate and, more to the point, for new career opportunities. 
 - 📫 How to reach me ...
 
 <!---
