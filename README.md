@@ -2,7 +2,6 @@
 - 👀 I’m always interested in learning and working.
 - 🌱 I’m currently learning more about Python, InfoSec, linux and virtualization.
 - 💞️ I’m looking to collaborate and, more to the point, for new career opportunities. 
-- 📫 How to reach me ...
 
 <!---
 chu1138/chu1138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
